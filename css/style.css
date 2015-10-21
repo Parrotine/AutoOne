@@ -147,7 +147,8 @@
 	height: 283px;
 }
 
-
+#pre-owned p {
+}
 
 /* Toyota bar */
 
@@ -172,4 +173,22 @@
 	font-weight: 400;
 	font-size: 123.1%;
 	font-weight: bold;
+}
+
+
+
+
+/* Trying solutions */
+
+.image {
+	float: left;
+	padding: 12px;
+}
+
+.text {
+	float: left;
+	padding: 12px;
+	width: 35%;
+	font-weight: bold;
+	font-size: 13px;
 }
