@@ -160,7 +160,7 @@
 }
 
 .toyota #logo, #heading, #paragraph, #more{
-	margin-left: 350px;
+	margin-left: 300px;
 }
 
 .toyota #truck {
@@ -168,7 +168,7 @@
 }
 
 .toyota #heading {
-	margin: 0 0 8px 350px;
+	margin: 0 0 8px 300px;
 	font-weight: 400;
 	font-size: 123.1%;
 	font-weight: bold;
