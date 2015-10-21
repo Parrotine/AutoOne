@@ -1,0 +1,175 @@
+#layout {
+	height: 985px;
+	/* margin: 0 auto; */
+	width: 974px;
+}
+
+#page-heading {
+	display: no-repeat;
+}
+
+.slider {
+	background-image: url('../images/slider.jpg');
+	height: 390px;
+	width: 1920px;
+}
+
+
+
+/* Black Bar stuff */
+
+
+#black-bar {
+	background-color: black;
+	width: 1920px;
+	height: 78px;
+}
+
+#black-bar a {
+	height: 56px;
+	width: 56px;
+	position: relative;
+}
+
+#black-bar a.quote-icon {
+	background: url('../images/quote.gif') no-repeat center left;
+	float: left;
+	padding: 10px 20px 0 75px;
+}
+
+#black-bar a.special-icon {
+	background: url('../images/special.gif') no-repeat center left;
+	float: left;
+	padding: 10px 20px 0 75px;
+}
+
+#black-bar a.service-icon {
+	background: url('../images/service.gif') no-repeat center left;
+	float: left;
+	padding: 10px 20px 0 75px;
+}
+
+#black-bar a.approved-icon {
+	background: url('../images/approved.gif') no-repeat center left;
+	float: left;
+	padding: 10px 20px 0 75px;
+}
+
+#black-bar a.save-icon {
+	background: url('../images/save.gif') no-repeat center left;
+	float: left;
+	padding: 10px 20px 0 75px;
+}
+
+
+
+
+/* Gallery stuff */
+
+
+#gallery {
+	height: 360px;
+	width: 1920px;
+	background-color: #ffffff;
+}
+
+#gallery p {
+
+}
+
+
+
+
+/* Credit Box button section */
+
+.credit-box {
+	width: 1920px;
+	height: 266px;
+	background-color: #e8e8e8;
+}
+
+.credit-box #button_icon{
+	margin-left: 600px;
+	margin-top: 30px;
+	float: left;
+}
+
+.credit-box h1, p {
+	display: inline-block;
+}
+
+.credit-box #button {
+	color: white;
+	background-color: #e93038;
+	margin: 0 0 0 15px;
+	padding: 5px 15px 5px 15px;
+}
+
+.credit-box h1 {
+	margin: 70px 0 0 50px;
+	font-weight: 400;
+}
+
+.credit-box p {
+	margin: 10px 0 0 50px;
+}
+
+
+
+
+
+/* Red Bar */
+
+
+#red-bar {
+	background-color: #e93038;
+	width: 1920px;
+	height: 37px;
+	text-align: center;
+}
+
+#red-bar p {
+	display: inline-block;
+	color: white;
+	font-family: 'Open Sans';
+	margin: 10px 0 0 0;
+}
+
+
+
+
+
+/* Pre-owned Cars */
+
+#pre-owned {
+	background-color: #ffffff;
+	width: 1920px;
+	height: 283px;
+}
+
+
+
+/* Toyota bar */
+
+
+.toyota {
+	width: 1920px;
+	height: 355px;
+	background-color: #dddddd;
+	font-family: 'Open Sans';
+}
+
+.toyota #logo, #heading, #paragraph, #more{
+	margin-left: 350px;
+}
+
+.toyota #truck {
+	float: right;
+}
+
+.toyota #heading {
+	margin: 0 0 8px 350px;
+	font-weight: 400;
+	font-size: 123.1%;
+	font-weight: bold;
+}
