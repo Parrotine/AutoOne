@@ -219,4 +219,11 @@ margin-top: 10px;
 
 #pic-detail {
 	display: inline-block;
+	padding: 0;
+	/* box-sizing: border-box; */
+}
+
+#pic-border {
+	display: inline-block;
+	box-sizing: border-box;
 }
