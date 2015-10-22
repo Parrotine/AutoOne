@@ -30,17 +30,22 @@
 	line-height: 78px;
 }
 
+#icons a {
+	display: inline-block;
+}
+
 #black-bar a {
-	height: 56px;
-	width: 56px;
+	/* height: 56px; */
+	/* width: 56px; */
 	position: relative;
-	margin-left: 50px;
+	margin-left: 20px;
 	text-align: center;
 }
 
 #black-bar a.quote-icon {
 	background: url('../images/quote.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
+	/* height: 56px; */
 }
 
 #black-bar a.special-icon {
