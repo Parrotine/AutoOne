@@ -174,7 +174,7 @@ margin-top: 10px;
 }
 
 .toyota #truck {
-	/* float: right; */
+	float: right;
 }
 
 .toyota #heading {
@@ -220,7 +220,6 @@ margin-top: 10px;
 #pic-detail {
 	display: inline-block;
 	padding: 0;
-	/* box-sizing: border-box; */
 }
 
 #pic-border {
