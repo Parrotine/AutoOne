@@ -1,6 +1,6 @@
 #layout {
-	height: 985px;
-	width: 100%;
+	/* height: 985px; */
+	/* width: 100%; */
 }
 
 #page-heading {
@@ -35,8 +35,6 @@
 }
 
 #black-bar a {
-	/* height: 56px; */
-	/* width: 56px; */
 	position: relative;
 	margin-left: 20px;
 	text-align: center;
@@ -45,27 +43,31 @@
 #black-bar a.quote-icon {
 	background: url('../images/quote.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
-	/* height: 56px; */
+	color: white;
 }
 
 #black-bar a.special-icon {
 	background: url('../images/special.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
+	color: white;
 }
 
 #black-bar a.service-icon {
 	background: url('../images/service.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
+	color: white;
 }
 
 #black-bar a.approved-icon {
 	background: url('../images/approved.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
+	color: white;
 }
 
 #black-bar a.save-icon {
 	background: url('../images/save.gif') no-repeat center left;
 	padding: 10px 20px 0 75px;
+	color: white;
 }
 
 
@@ -92,7 +94,7 @@ margin-top: 10px;
 
 .credit-box {
 	width: 100%;
-	height: 266px;
+	/* height: 266px; */
 	background-color: #e8e8e8;
 }
 
@@ -100,9 +102,6 @@ margin-top: 10px;
 	margin-left: 600px;
 	margin-top: 30px;
 	float: left;
-}
-
-.credit-box h1, p {
 }
 
 .credit-box #button {
@@ -131,7 +130,7 @@ margin-top: 10px;
 	background-color: #e93038;
 	width: 100%;
 	height: 37px;
-	text-align: center;
+	/* text-align: center; */
 }
 
 #red-bar p {
@@ -198,4 +197,19 @@ margin-top: 10px;
 	width: 35%;
 	font-weight: bold;
 	font-size: 13px;
+}
+
+
+
+/* Pre Owned Gallery potential solutions */
+
+.test1 {
+	text-align: center;
+}
+
+.test1 img {
+	height: 191px;
+	width: 255px;
+	margin: 0 auto;
+	display: block;
 }
