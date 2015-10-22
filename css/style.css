@@ -96,10 +96,11 @@ margin-top: 10px;
 	width: 100%;
 	/* height: 266px; */
 	background-color: #e8e8e8;
+	text-align: center;
 }
 
 #credit-box #button_icon{
-	margin-left: 600px;
+	/* margin-left: 600px; */
 	margin-top: 30px;
 	/* float: left; */
 }
@@ -151,6 +152,7 @@ margin-top: 10px;
 	background-color: #ffffff;
 	width: 100%;
 	height: 283px;
+	display: inline-block;
 }
 
 #pre-owned p {
@@ -172,7 +174,7 @@ margin-top: 10px;
 }
 
 .toyota #truck {
-	float: right;
+	/* float: right; */
 }
 
 .toyota #heading {
@@ -188,12 +190,12 @@ margin-top: 10px;
 /* Trying solutions */
 
 .image {
-	float: left;
+	/* float: left; */
 	padding: 12px;
 }
 
 .text {
-	float: left;
+	/* float: left; */
 	padding: 12px;
 	width: 35%;
 	font-weight: bold;
