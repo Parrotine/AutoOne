@@ -36,31 +36,26 @@
 
 #black-bar a.quote-icon {
 	background: url('../images/quote.gif') no-repeat center left;
-	/* float: left; */
 	padding: 10px 20px 0 75px;
 }
 
 #black-bar a.special-icon {
 	background: url('../images/special.gif') no-repeat center left;
-	/* float: left; */
 	padding: 10px 20px 0 75px;
 }
 
 #black-bar a.service-icon {
 	background: url('../images/service.gif') no-repeat center left;
-	/* float: left; */
 	padding: 10px 20px 0 75px;
 }
 
 #black-bar a.approved-icon {
 	background: url('../images/approved.gif') no-repeat center left;
-	/* float: left; */
 	padding: 10px 20px 0 75px;
 }
 
 #black-bar a.save-icon {
 	background: url('../images/save.gif') no-repeat center left;
-	/* float: left; */
 	padding: 10px 20px 0 75px;
 }
 
