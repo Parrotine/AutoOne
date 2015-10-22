@@ -29,6 +29,7 @@
 	height: 56px;
 	width: 56px;
 	position: relative;
+	margin-left: 50px;
 }
 
 #black-bar a.quote-icon {
@@ -74,7 +75,7 @@
 }
 
 #gallery p {
-
+margin-left: 800px;
 }
 
 
@@ -95,7 +96,6 @@
 }
 
 .credit-box h1, p {
-	display: inline-block;
 }
 
 .credit-box #button {
@@ -106,7 +106,6 @@
 }
 
 .credit-box h1 {
-	margin: 70px 0 0 50px;
 	font-weight: 400;
 }
 
@@ -162,6 +161,7 @@
 
 .toyota #logo, #heading, #paragraph, #more{
 	margin-left: 300px;
+	margin-top: 15px;
 }
 
 .toyota #truck {
